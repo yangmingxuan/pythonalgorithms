@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5008668a-a3a3-4d88-961b-b7749fd72459" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/string/AddStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/MinimumRemovetoMakeValidParentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/VerifyinganAlienDictionary.py" afterDir="false" />
+    <list default="true" id="5008668a-a3a3-4d88-961b-b7749fd72459" name="Default Changelist" comment="MergeSortedArray">
+      <change afterPath="$PROJECT_DIR$/string/TextJustification.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list/LinkedListCycleII.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/LinkedListCycleII.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/NextGreaterElementI.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list/ListNode.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -39,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string/VerifyinganAlienDictionary.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/string/TextJustification.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="33">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
             </state>
           </provider>
         </entry>
@@ -53,15 +41,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
               <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/string/MinimumRemovetoMakeValidParentheses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -87,6 +66,9 @@
         <option value="$PROJECT_DIR$/string/VerifyinganAlienDictionary.py" />
         <option value="$PROJECT_DIR$/string/AddStrings.py" />
         <option value="$PROJECT_DIR$/string/MinimumRemovetoMakeValidParentheses.py" />
+        <option value="$PROJECT_DIR$/array/MergeSortedArray.py" />
+        <option value="$PROJECT_DIR$/array/SubarraySumEqualsK.py" />
+        <option value="$PROJECT_DIR$/string/TextJustification.py" />
       </list>
     </option>
   </component>
@@ -187,7 +169,28 @@
       <option name="project" value="LOCAL" />
       <updated>1596867874328</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020-08-13">
+      <created>1597363787001</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597363787001</updated>
+    </task>
+    <task id="LOCAL-00004" summary="MergeSortedArray">
+      <created>1597367065901</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597367065901</updated>
+    </task>
+    <task id="LOCAL-00005" summary="SubarraySumEqualsK">
+      <created>1597456133682</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597456133682</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -216,7 +219,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="2020-08-07" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-08-07" />
+    <MESSAGE value="2020-08-13" />
+    <MESSAGE value="MergeSortedArray" />
+    <MESSAGE value="SubarraySumEqualsK" />
+    <option name="LAST_COMMIT_MESSAGE" value="SubarraySumEqualsK" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://D:/Program/Python3/Lib/typing.py">
@@ -248,22 +254,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list/ListNode.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/list/LinkedListCycleII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string/VerifyinganAlienDictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/MinimumRemovetoMakeValidParentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/ListNode.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/string/AddStrings.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -272,10 +278,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/string/MinimumRemovetoMakeValidParentheses.py">
+    <entry file="file://$PROJECT_DIR$/array/SubarraySumEqualsK.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        <state relative-caret-position="323">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/MergeSortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/LinkedListCycleII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/TextJustification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
