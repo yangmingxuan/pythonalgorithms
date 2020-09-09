@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5008668a-a3a3-4d88-961b-b7749fd72459" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/AddBinary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/ValidPalindromeII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/EmployeeFreeTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/Interval.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/IntervalListIntersections.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrayandsort/IntervalListIntersections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/MergeSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrayandsort/MergeSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/NextGreaterElementI.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrayandsort/NextGreaterElementI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/SubarraySumEqualsK.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrayandsort/SubarraySumEqualsK.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2d485e31-845f-4205-ad4b-ac4f57467fea" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="30nxwygh" />
   </component>
@@ -37,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/btree" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -113,7 +118,28 @@
       <option name="project" value="LOCAL" />
       <updated>1597867864009</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2020-08-04">
+      <created>1598313032169</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598313032169</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2020-08-25">
+      <created>1598403458540</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1598403458540</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FindDuplicateFileinSystem">
+      <created>1598589767320</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1598589767320</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,16 +151,31 @@
     <MESSAGE value="TextJustification" />
     <MESSAGE value="TimeMap" />
     <MESSAGE value="BinaryTreeRightSideView" />
-    <option name="LAST_COMMIT_MESSAGE" value="BinaryTreeRightSideView" />
+    <MESSAGE value="2020-08-04" />
+    <MESSAGE value="2020-08-25" />
+    <MESSAGE value="FindDuplicateFileinSystem" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindDuplicateFileinSystem" />
   </component>
   <component name="WindowStateProjectService">
     <state x="176" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598298370453">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="176" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1598298370453" />
-    <state x="222" y="105" key="SettingsEditor" timestamp="1598060560645">
+    <state x="324" y="27" key="CommitChangelistDialog2" timestamp="1598589761786">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="222" y="105" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1598060560645" />
+    <state x="324" y="27" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1598589761786" />
+    <state x="222" y="105" key="SettingsEditor" timestamp="1598313495625">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="222" y="105" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1598313495625" />
+    <state x="313" y="193" key="Vcs.Push.Dialog.v2" timestamp="1598589772760">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="193" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1598589772760" />
+    <state x="471" y="360" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598313287800">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="471" y="360" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.920@0.0.1440.920" timestamp="1598313287800" />
   </component>
 </project>
