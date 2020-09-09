@@ -35,8 +35,7 @@ class EmployeeFreeTime:
     def employeeFreeTime(self, schedule: '[[Interval]]') -> '[Interval]':
         allschedule = []
         for employ in schedule:
-            for interval in employ:
-                allschedule.append(interval)
+            allschedule.extend(employ)
 
         allschedule.sort(key=lambda x: x.start)
 
