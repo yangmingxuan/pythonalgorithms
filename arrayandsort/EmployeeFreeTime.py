@@ -34,8 +34,8 @@ from arrayandsort import Interval
 class EmployeeFreeTime:
     def employeeFreeTime(self, schedule: '[[Interval]]') -> '[Interval]':
         allschedule = []
-        for employ in schedule:
-            allschedule.extend(employ)
+        for employee in schedule:
+            allschedule.extend(employee)
 
         allschedule.sort(key=lambda x: x.start)
 
