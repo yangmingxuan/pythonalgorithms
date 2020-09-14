@@ -34,7 +34,7 @@ Follow-up:
 Can you solve it without using extra space?
 """
 
-from list import ListNode
+from linkedlist import ListNode
 
 
 class LinkedListCycleII:
