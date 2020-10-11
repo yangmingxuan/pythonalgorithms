@@ -49,9 +49,4 @@ class LongestIncreasingPathinaMatrix:
             posLongestPath[row][col] = maxpath
             return maxpath
 
-        longestpath = 0
-        for i in range(m):
-            for j in range(n):
-                longestpath = max(longestpath, longestPath(i, j))
-
-        return longestpath
+        return max(longestPath(i, j) for i in range(m) for j in range(n))
