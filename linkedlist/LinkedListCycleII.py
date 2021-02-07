@@ -60,8 +60,7 @@ class LinkedListCycleII:
             fast = fast.next.next
             if slow == fast:
                 break
-
-        if slow != fast:
+        else:
             return None
 
         slow = head
