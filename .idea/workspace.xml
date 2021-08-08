@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5008668a-a3a3-4d88-961b-b7749fd72459" name="Default Changelist" comment="StringCompression">
-      <change afterPath="$PROJECT_DIR$/arrayandsort/MaximumPerformanceofaTeam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/MaximumProfitinJobScheduling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/RunningSumof1dArray.py" afterDir="false" />
+    <list default="true" id="5008668a-a3a3-4d88-961b-b7749fd72459" name="Default Changelist" comment="2021-07-01">
+      <change afterPath="$PROJECT_DIR$/arrayandsort/DivideTwoIntegers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/O1Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/SubsetsII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/ThreeSumClosest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/TrappingRainWater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btree/NNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btree/NaryTreeLevelOrderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trie/MapSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trie/TrieNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayandsort/PushDominoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrayandsort/PushDominoes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btree/BinaryTreePruning.py" beforeDir="false" afterPath="$PROJECT_DIR$/btree/BinaryTreePruning.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +56,112 @@
       <recent name="D:\mid\tempwkspc\pyalgorithms\" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.ThreeSumClosest">
+    <configuration name="CountVowelsPermutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyalgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayandsort" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/CountVowelsPermutation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FourSumTarget" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pyalgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayandsort" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/FourSumTarget.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReduceArraySizetoTheHalf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyalgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayandsort" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/ReduceArraySizetoTheHalf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ThreeSumClosest" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pyalgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayandsort" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/ThreeSumClosest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ValidTriangleNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyalgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayandsort" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/ValidTriangleNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="turtleexample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyalgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,8 +183,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.CountVowelsPermutation" />
+      <item itemvalue="Python.FourSumTarget" />
+      <item itemvalue="Python.ReduceArraySizetoTheHalf" />
+      <item itemvalue="Python.ThreeSumClosest" />
+      <item itemvalue="Python.ValidTriangleNumber" />
+      <item itemvalue="Python.turtleexample" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ValidTriangleNumber" />
+        <item itemvalue="Python.ReduceArraySizetoTheHalf" />
+        <item itemvalue="Python.CountVowelsPermutation" />
         <item itemvalue="Python.turtleexample" />
       </list>
     </recent_temporary>
@@ -297,17 +422,59 @@
       <option name="project" value="LOCAL" />
       <updated>1605403740505</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="2020-12-05">
+      <created>1607162738079</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1607162738079</updated>
+    </task>
+    <task id="LOCAL-00032" summary="2021-01-31">
+      <created>1612124986418</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1612124986418</updated>
+    </task>
+    <task id="LOCAL-00033" summary="2021-02-05">
+      <created>1612554654737</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1612554654737</updated>
+    </task>
+    <task id="LOCAL-00034" summary="2021-02-07">
+      <created>1612727608094</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1612727608094</updated>
+    </task>
+    <task id="LOCAL-00035" summary="2021-07-01">
+      <created>1625207177948</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1625207177948</updated>
+    </task>
+    <task id="LOCAL-00036" summary="2021-07-16">
+      <created>1626487658309</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1626487658309</updated>
+    </task>
+    <task id="LOCAL-00037" summary="2021-07-25">
+      <created>1627257730873</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1627257730873</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TextJustification" />
-    <MESSAGE value="TimeMap" />
-    <MESSAGE value="BinaryTreeRightSideView" />
-    <MESSAGE value="2020-08-04" />
-    <MESSAGE value="2020-08-25" />
-    <MESSAGE value="FindDuplicateFileinSystem" />
-    <MESSAGE value="EmployeeFreeTime" />
     <MESSAGE value="EmployeeFreeTime-extend" />
     <MESSAGE value="RobotBoundedInCircle" />
     <MESSAGE value="UndergroundSystem" />
@@ -326,52 +493,13 @@
     <MESSAGE value="2020-10-24" />
     <MESSAGE value="2020-11-07" />
     <MESSAGE value="2020-11-14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-11-14" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="176" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598298370453">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="176" y="115" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1598298370453" />
-    <state x="401" y="195" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600825385867">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="401" y="195" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.920@0.0.1440.920" timestamp="1600825385867" />
-    <state x="324" y="27" key="CommitChangelistDialog2" timestamp="1605403738571">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="324" y="27" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1605403738571" />
-    <state width="1419" height="242" key="GridCell.Tab.0.bottom" timestamp="1599614371286">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state width="1419" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1599614371286" />
-    <state width="1419" height="242" key="GridCell.Tab.0.center" timestamp="1599614371286">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state width="1419" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1599614371286" />
-    <state width="1419" height="242" key="GridCell.Tab.0.left" timestamp="1599614371285">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state width="1419" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1599614371285" />
-    <state width="1419" height="242" key="GridCell.Tab.0.right" timestamp="1599614371286">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state width="1419" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1599614371286" />
-    <state x="222" y="105" key="SettingsEditor" timestamp="1598313495625">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="222" y="105" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1598313495625" />
-    <state x="313" y="193" key="Vcs.Push.Dialog.v2" timestamp="1605403744043">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="313" y="193" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1605403744043" />
-    <state x="418" y="58" width="605" height="804" key="find.popup" timestamp="1602223628875">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="418" y="58" width="605" height="804" key="find.popup/0.0.1440.920@0.0.1440.920" timestamp="1602223628875" />
-    <state x="471" y="360" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1598313287800">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="471" y="360" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.920@0.0.1440.920" timestamp="1598313287800" />
+    <MESSAGE value="2020-12-05" />
+    <MESSAGE value="2021-01-31" />
+    <MESSAGE value="2021-02-05" />
+    <MESSAGE value="2021-02-07" />
+    <MESSAGE value="2021-07-01" />
+    <MESSAGE value="2021-07-16" />
+    <MESSAGE value="2021-07-25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-07-25" />
   </component>
 </project>

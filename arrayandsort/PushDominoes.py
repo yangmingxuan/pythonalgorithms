@@ -35,7 +35,7 @@ n == dominoes.length
 dominoes[i] is either 'L', 'R', or '.'.
 """
 
-class Solution:
+class PushDominoes:
     """
      * Explanation: 从左往右标上右向的正值，再从右往左标上左向的负值，最终为正值的倒向右，负值倒向左，0为不动。
      * From left to right, mark the positive value to the right, and then mark the negative value to the left from right to left, and finally the positive value is reversed to the right, the negative value is reversed to the left, and 0 means no movement.

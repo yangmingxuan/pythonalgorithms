@@ -33,7 +33,7 @@ Node.val is either 0 or 1.
 from btree.TreeNode import TreeNode
 
 
-class Solution:
+class BinaryTreePruning:
     def pruneTree(self, root: TreeNode) -> TreeNode:
         if not root:
             return None
