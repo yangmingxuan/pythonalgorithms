@@ -11,7 +11,7 @@ You must not use any built-in BigInteger library or convert the inputs to intege
 
 class AddStrings:
     def addStrings(self, num1: str, num2: str) -> str:
-        res = []
+        res = [] #res = ''
 
         carry = 0
         len1 = len(num1) - 1
@@ -22,11 +22,11 @@ class AddStrings:
             val = x1 + x2 + carry
             carry = val // 10
             val = val % 10
-            res.append(val)
+            res.append(val)  #res += str(val)
             len1 -= 1
             len2 -= 1
 
         if carry > 0:
-            res.append(carry)
+            res.append(carry) #res += str(carry)
 
-        return ''.join(str(x) for x in res[::-1])
+        return ''.join(str(x) for x in res[::-1]) #res[::-1]
