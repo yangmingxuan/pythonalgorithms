@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5008668a-a3a3-4d88-961b-b7749fd72459" name="Default Changelist" comment="2021-07-01">
-      <change afterPath="$PROJECT_DIR$/arrayandsort/DivideTwoIntegers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/O1Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/SubsetsII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/ThreeSumClosest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/TrappingRainWater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btree/NNode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btree/NaryTreeLevelOrderTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trie/MapSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trie/TrieNode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="5008668a-a3a3-4d88-961b-b7749fd72459" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/arrayandsort/ArrayNesting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/JumpGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/LargestPlusSign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/LongestTurbulentSubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/MaximumNumberofBalloons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/PartitiontoKEqualSumSubsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/RangeAdditionII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/SortArrayByParityII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/SpiralMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/SpiralMatrixII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist/ReverseLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist/SplitLinkedListinParts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/LongestCommonSubsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/ReverseOnlyLetters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/ShiftingLetters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/SlowestKey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyalgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyalgorithms.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrayandsort/PushDominoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrayandsort/PushDominoes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btree/BinaryTreePruning.py" beforeDir="false" afterPath="$PROJECT_DIR$/btree/BinaryTreePruning.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/btree" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -56,7 +62,7 @@
       <recent name="D:\mid\tempwkspc\pyalgorithms\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ThreeSumClosest">
+  <component name="RunManager" selected="Python.LargestPlusSign">
     <configuration name="CountVowelsPermutation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyalgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,6 +105,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="LargestPlusSign" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pyalgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayandsort" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/LargestPlusSign.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ReduceArraySizetoTheHalf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyalgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,6 +160,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/ThreeSumClosest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ValidSudoku" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pyalgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayandsort" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/ValidSudoku.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,19 +232,21 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.CountVowelsPermutation" />
       <item itemvalue="Python.FourSumTarget" />
-      <item itemvalue="Python.ReduceArraySizetoTheHalf" />
       <item itemvalue="Python.ThreeSumClosest" />
+      <item itemvalue="Python.ValidSudoku" />
+      <item itemvalue="Python.LargestPlusSign" />
+      <item itemvalue="Python.CountVowelsPermutation" />
+      <item itemvalue="Python.ReduceArraySizetoTheHalf" />
       <item itemvalue="Python.ValidTriangleNumber" />
       <item itemvalue="Python.turtleexample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.turtleexample" />
         <item itemvalue="Python.ValidTriangleNumber" />
         <item itemvalue="Python.ReduceArraySizetoTheHalf" />
         <item itemvalue="Python.CountVowelsPermutation" />
-        <item itemvalue="Python.turtleexample" />
       </list>
     </recent_temporary>
   </component>
@@ -471,13 +521,31 @@
       <option name="project" value="LOCAL" />
       <updated>1627257730873</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="2021-08-08">
+      <created>1628463754491</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1628463754491</updated>
+    </task>
+    <task id="LOCAL-00039" summary="2021-08-15">
+      <created>1629073085447</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1629073085447</updated>
+    </task>
+    <task id="LOCAL-00040" summary="2021-08-29">
+      <created>1630286205547</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1630286205547</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="EmployeeFreeTime-extend" />
-    <MESSAGE value="RobotBoundedInCircle" />
-    <MESSAGE value="UndergroundSystem" />
     <MESSAGE value="FindAllDuplicatesinanArray" />
     <MESSAGE value="2020-09-11" />
     <MESSAGE value="ReachingPoints" />
@@ -500,6 +568,9 @@
     <MESSAGE value="2021-07-01" />
     <MESSAGE value="2021-07-16" />
     <MESSAGE value="2021-07-25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-07-25" />
+    <MESSAGE value="2021-08-08" />
+    <MESSAGE value="2021-08-15" />
+    <MESSAGE value="2021-08-29" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-08-29" />
   </component>
 </project>
