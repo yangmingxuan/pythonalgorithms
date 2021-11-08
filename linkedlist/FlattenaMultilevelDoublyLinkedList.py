@@ -67,7 +67,7 @@ Number of Nodes will not exceed 1000.
 from linkedlist import Node
 
 
-class Solution:
+class FlattenaMultilevelDoublyLinkedList:
     def flatten(self, head: 'Node') -> 'Node':
         if not head:
             return  head
@@ -93,4 +93,28 @@ class Solution:
             pre = cur
 
         zerohead.next.prev = None
-        return zerohead.next;
+        return zerohead.next
+
+    def flatten2(self, head: 'Node') -> 'Node':
+        if not head:
+            return  head
+
+        def FlattenNode(pre: Node, cur: Node) -> Node:
+            if not cur:
+                return pre
+
+            pre.next = cur
+            cur.prev = pre
+
+            tmpnode = cur.next
+
+            childnode = FlattenNode(cur, cur.child)
+            cur.child = None
+
+            return FlattenNode(childnode, tmpnode)
+
+        zerohead = Node(0, None, None, None)
+        FlattenNode(zerohead, head)
+
+        zerohead.next.prev = None
+        return zerohead.next
