@@ -11,6 +11,15 @@ from linkedlist import ListNode
 
 class RemoveLinkedListElements:
     def removeElements(self, head: ListNode, val: int) -> ListNode:
+        if not head:
+            return None
+        nxt = self.removeElements(head.next, val)
+        if head.val == val:
+            return nxt
+        head.next = nxt
+        return head
+
+    def removeElements2(self, head: ListNode, val: int) -> ListNode:
         firstNode = ListNode(0)
         firstNode.next = head
         pre, cur = firstNode, head
