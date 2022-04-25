@@ -50,6 +50,15 @@ class LinkedListCycleII:
 
         return None
 
+    """
+     * |___________|_____|___________|
+     * |<-----m--->|<-l->|<--n-l=m-->|
+     *             |<-------n------->|
+     * The length without a loop is m, the length with cycle is n;
+     * fast travels at twice the speed of slow and meets at l,
+     * the length of slow travel is m + l, the length of fast travel is m + n + l,so
+     * 2*(m+l) = m+n+l ====> m = n-l
+    """
     def detectCycle2(self, head: ListNode) -> ListNode:
         if head == None or head.next == None:
             return None
