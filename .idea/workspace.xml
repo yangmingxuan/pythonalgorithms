@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5008668a-a3a3-4d88-961b-b7749fd72459" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arrayandsort/BestTimetoBuyandSellStock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/BestTimetoBuyandSellStockIV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/CombinationSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/ContiguousArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/FourSumII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/LargestRectangleinHistogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/MajorityElement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/RemoveCoveredIntervals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/RemoveDuplicatesfromSortedArrayII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/RotateArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/Subsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayandsort/ValidMountainArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btree/AllElementsinTwoBinarySearchTrees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btree/MaximumDepthofBinaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/MergekSortedLists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedlist/SwapNodesinPairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/RemoveKDigits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/WordLadder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/struct/WordDictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trie/MaximumXORof TwoNumbersinanArray.py" afterDir="false" />
+    <list default="true" id="5008668a-a3a3-4d88-961b-b7749fd72459" name="Default Changelist" comment="2022-04-24">
+      <change afterPath="$PROJECT_DIR$/arrayandsort/Candy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/CombinationSumIV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/CountofSmallerNumbersAfterSelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/LongestConsecutiveSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/MatchstickstoSquare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCuts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/MaximumUnitsonaTruck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/MyCalendarI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/PascalsTriangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayandsort/Searcha2DMatrixII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/FindandReplacePattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/InterleavingString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/MinimumDeletionstoMakeCharacterFrequenciesUnique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/NumberofMatchingSubsequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/WordSubsets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +49,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/string" />
     <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
@@ -65,8 +62,8 @@
       <recent name="D:\mid\tempwkspc\pyalgorithms\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BestTimetoBuyandSellStockIV">
-    <configuration name="BestTimetoBuyandSellStockIV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.PascalsTriangle">
+    <configuration name="CoinChange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyalgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,28 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/BestTimetoBuyandSellStockIV.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CheckifThereisaValidPathinaGrid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyalgorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayandsort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/CheckifThereisaValidPathinaGrid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/CoinChange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,27 +105,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LargestDivisibleSubset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyalgorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayandsort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/LargestDivisibleSubset.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="LargestPlusSign" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pyalgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RotateArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MatchstickstoSquare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyalgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/RotateArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/MatchstickstoSquare.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SequentialDigits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximumPointsYouCanObtainfromCards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyalgorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,7 +159,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/SequentialDigits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/MaximumPointsYouCanObtainfromCards.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OnesandZeroes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyalgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayandsort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/OnesandZeroes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PascalsTriangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyalgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayandsort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayandsort/PascalsTriangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,19 +257,19 @@
       <item itemvalue="Python.ThreeSumClosest" />
       <item itemvalue="Python.ValidSudoku" />
       <item itemvalue="Python.LargestPlusSign" />
-      <item itemvalue="Python.LargestDivisibleSubset" />
-      <item itemvalue="Python.CheckifThereisaValidPathinaGrid" />
-      <item itemvalue="Python.SequentialDigits" />
-      <item itemvalue="Python.RotateArray" />
-      <item itemvalue="Python.BestTimetoBuyandSellStockIV" />
+      <item itemvalue="Python.CoinChange" />
+      <item itemvalue="Python.OnesandZeroes" />
+      <item itemvalue="Python.MaximumPointsYouCanObtainfromCards" />
+      <item itemvalue="Python.MatchstickstoSquare" />
+      <item itemvalue="Python.PascalsTriangle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BestTimetoBuyandSellStockIV" />
-        <item itemvalue="Python.RotateArray" />
-        <item itemvalue="Python.SequentialDigits" />
-        <item itemvalue="Python.CheckifThereisaValidPathinaGrid" />
-        <item itemvalue="Python.LargestDivisibleSubset" />
+        <item itemvalue="Python.PascalsTriangle" />
+        <item itemvalue="Python.MatchstickstoSquare" />
+        <item itemvalue="Python.MaximumPointsYouCanObtainfromCards" />
+        <item itemvalue="Python.OnesandZeroes" />
+        <item itemvalue="Python.CoinChange" />
       </list>
     </recent_temporary>
   </component>
@@ -287,20 +284,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596755891257</updated>
-    </task>
-    <task id="LOCAL-00001" summary="first commit">
-      <created>1596774902721</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1596774902721</updated>
-    </task>
-    <task id="LOCAL-00002" summary="2020-08-07">
-      <created>1596867874328</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1596867874328</updated>
     </task>
     <task id="LOCAL-00003" summary="2020-08-13">
       <created>1597363787001</created>
@@ -610,15 +593,45 @@
       <option name="project" value="LOCAL" />
       <updated>1642987446974</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="2022-02-20">
+      <created>1645407787697</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1645407787697</updated>
+    </task>
+    <task id="LOCAL-00048" summary="2022-03-20">
+      <created>1647905094991</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1647905094991</updated>
+    </task>
+    <task id="LOCAL-00049" summary="2022-04-24">
+      <created>1650860938293</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1650860938293</updated>
+    </task>
+    <task id="LOCAL-00050" summary="2022-05-22">
+      <created>1653287577252</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1653287577258</updated>
+    </task>
+    <task id="LOCAL-00051" summary="2022-06-26">
+      <created>1656312151681</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1656312151688</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2020-09-19" />
-    <MESSAGE value="2020-09-22" />
-    <MESSAGE value="2020-09-25" />
-    <MESSAGE value="2020-10-02" />
-    <MESSAGE value="2020-10-10" />
     <MESSAGE value="2020-10-17" />
     <MESSAGE value="2020-10-24" />
     <MESSAGE value="2020-11-07" />
@@ -639,6 +652,22 @@
     <MESSAGE value="2021-12-05" />
     <MESSAGE value="2022-01-10" />
     <MESSAGE value="2022-01-23" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-01-23" />
+    <MESSAGE value="2022-02-20" />
+    <MESSAGE value="2022-03-20" />
+    <MESSAGE value="2022-04-24" />
+    <MESSAGE value="2022-05-22" />
+    <MESSAGE value="2022-06-26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-06-26" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
